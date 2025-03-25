@@ -34,8 +34,12 @@
       const library = document.createElement('sidekick-library')
       library.config = {
         base: '/tools/sidekick/library.json',
+        plugins: {
+          blocks: {
+            encodeImages: true,
+          }
+        }
       }
-
       document.body.prepend(library)
     </script>
   </body>
