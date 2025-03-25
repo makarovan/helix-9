@@ -27,4 +27,5 @@
       "excludePaths": ["**"],
       "includePaths": ["**.docx**", "/document/**"]
     }
+  ]
 }
