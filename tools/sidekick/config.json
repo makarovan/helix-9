@@ -2,7 +2,7 @@
   "plugins": [
     {
       "id": "foo",
-      "title": "Generate with AI",
+      "title": "Test button",
       "url": "/tools/sidekick/foo.html"
     }
   ]
